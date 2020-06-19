@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Shop
+comment0.text=\n\ Write\ a\ description\ of\ class\ Shop\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=open\ close\ cashiers\ filename
+comment1.target=Shop(int,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ runFileReader()
+comment3.params=
+comment3.target=void\ createEvents()
+comment4.params=
+comment4.target=void\ runEvents()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Event
+comment0.text=\n\ Write\ a\ description\ of\ class\ Event\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=time
+comment1.target=Event(int)
+comment2.params=c
+comment2.target=void\ add(Customer)
+comment3.params=cashiers\ waitL\ waitU\ proL\ proU
+comment3.target=double\ run(int,\ int,\ int,\ double,\ double)
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Cashier
+comment0.text=\n\ Write\ a\ description\ of\ class\ Cashier\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=num
+comment1.target=Cashier(int)
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=
+comment3.target=boolean\ isOpen()
+comment4.params=c
+comment4.target=void\ add(Customer)
+numComments=5
